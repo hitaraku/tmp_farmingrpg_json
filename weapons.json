@@ -1,0 +1,64 @@
+{
+  "weapons":[
+    { 
+      "number":1, 
+      "name":"WoodSword", 
+      "attack":  10,
+      "durability": 9999,
+      "price": 1000,
+      "plusATKandDUR": 1,
+      "currentLV": 1,
+      "maxLV": 99,
+      "scaleImage": 0.8,
+      "firstWeaponFlg": true
+    },
+    { 
+      "number":2, 
+      "name":"Pickaxe", 
+      "attack":  20,
+      "durability": 20,
+      "price": 2000,
+      "plusATKandDUR": 1,
+      "currentLV": 0,
+      "maxLV": 99,
+      "scaleImage": 0.8,
+      "firstWeaponFlg": false
+    },
+    { 
+      "number":3, 
+      "name":"Shovel", 
+      "attack":  30,
+      "durability": 20,
+      "price": 3000,
+      "plusATKandDUR": 2,
+      "currentLV": 0,
+      "maxLV": 99,
+      "scaleImage": 0.7,
+      "firstWeaponFlg": false
+    },
+    { 
+      "number":4, 
+      "name":"IronSword", 
+      "attack":  40,
+      "durability": 20,
+      "price": 5000,
+      "plusATKandDUR": 2,
+      "currentLV": 0,
+      "maxLV": 99,
+      "scaleImage": 0.8,
+      "firstWeaponFlg": false
+    },
+    { 
+      "number":5, 
+      "name":"HeroSword", 
+      "attack":  70,
+      "durability": 20,
+      "price": 15000,
+      "plusATKandDUR": 3,
+      "currentLV": 0,
+      "maxLV": 99,
+      "scaleImage": 1.0,
+      "firstWeaponFlg": false
+    }
+  ]
+}
