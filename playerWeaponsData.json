@@ -1,0 +1,30 @@
+{
+  "playerWeaponsData":[
+    { 
+      "weaponNumber":1, 
+      "weaponAttack":0, 
+      "weaponDurable":  0
+    },
+    { 
+      "weaponNumber":2, 
+      "weaponAttack":0, 
+      "weaponDurable":  0
+    },
+    { 
+      "weaponNumber":3, 
+      "weaponAttack":0, 
+      "weaponDurable":  0
+    },
+    { 
+      "weaponNumber":4, 
+      "weaponAttack":0, 
+      "weaponDurable":  0
+    },
+    { 
+      "weaponNumber":5, 
+      "weaponAttack":0, 
+      "weaponDurable":  0
+    }
+  ]
+}
+
